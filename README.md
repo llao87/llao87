@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=llao87&theme=dark&background=000000)](https://git.io/streak-stats)
 -->
 ### :hammer_and_wrench: Languages and Tools:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llao87&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Llao87's GitHub stats](https://github-readme-stats.vercel.app/api?username=llao87)](https://github.com/anuraghazra/github-readme-stats)
